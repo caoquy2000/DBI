@@ -1,0 +1,72 @@
+/*==============================================================*/
+/* DBMS name:      Microsoft SQL Server 2014                    */
+/* Created on:     03/23/2020 2:06:40 PM                        */
+/*==============================================================*/
+
+
+if exists (select 1
+   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
+   where r.fkeyid = object_id('Student') and o.name = 'FK_STUDENT_STUDENTN-_MAJOR')
+alter table Student
+   drop constraint "FK_STUDENT_STUDENTN-_MAJOR"
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('Major')
+            and   type = 'U')
+   drop table Major
+go
+
+if exists (select 1
+            from  sysindexes
+           where  id    = object_id('Student')
+            and   name  = 'StudentN-1Major_FK'
+            and   indid > 0
+            and   indid < 255)
+   drop index Student."StudentN-1Major_FK"
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('Student')
+            and   type = 'U')
+   drop table Student
+go
+
+/*==============================================================*/
+/* Table: Major                                                 */
+/*==============================================================*/
+create table Major (
+   MID                  char(2)              not null,
+   NameMajor            varchar(50)          null,
+   constraint PK_MAJOR primary key (MID)
+)
+go
+
+/*==============================================================*/
+/* Table: Student                                               */
+/*==============================================================*/
+create table Student (
+   SID                  char(50)             not null,
+   MID                  char(2)              null,
+   Name                 varchar(50)          not null,
+   constraint PK_STUDENT primary key (SID)
+)
+go
+
+/*==============================================================*/
+/* Index: "StudentN-1Major_FK"                                  */
+/*==============================================================*/
+
+
+
+
+create nonclustered index "StudentN-1Major_FK" on Student (MID ASC)
+go
+
+alter table Student
+   add constraint "FK_STUDENT_STUDENTN-_MAJOR" foreign key (MID)
+      references Major (MID)
+go
+
