@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T15:34:16.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="FbYqV_sMRt-V4zCmtkoL" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T15:41:01.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="ggQJmDVFvm0zdHNiWJT6" version="13.7.8" type="github">
   <diagram id="rZBaU04stiPMk3SZJmmc" name="Page-1">
     <mxGraphModel dx="1174" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -152,10 +152,10 @@
           <mxGeometry x="640" y="1010" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SoXF86wuX2_m7fPJKhFs-45" value="Trainer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1030" width="30" height="50" as="geometry" />
+          <mxGeometry x="1210" y="970" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SoXF86wuX2_m7fPJKhFs-46" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1300" width="30" height="50" as="geometry" />
+          <mxGeometry x="1260" y="1250" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SoXF86wuX2_m7fPJKhFs-47" value="Study Lesson" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1200" width="100" height="60" as="geometry" />
@@ -165,6 +165,21 @@
         </mxCell>
         <mxCell id="SoXF86wuX2_m7fPJKhFs-49" value="Booking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SoXF86wuX2_m7fPJKhFs-50" value="Upload Lesson" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="920" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SoXF86wuX2_m7fPJKhFs-51" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SoXF86wuX2_m7fPJKhFs-52" value="Choose PT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1520" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SoXF86wuX2_m7fPJKhFs-53" value="Choose Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SoXF86wuX2_m7fPJKhFs-54" value="Manage Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1260" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
