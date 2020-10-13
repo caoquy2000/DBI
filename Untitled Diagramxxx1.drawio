@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T06:54:55.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="2Je3ewTS85aO8lP40s_9" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T06:55:21.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="EIBus-Zlx51uJ4JsXrzi" version="13.7.9" type="github">
   <diagram id="EGZNZqLGof7JbSLH0rr6" name="Page-1">
     <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -255,6 +255,9 @@
             <mxPoint x="1750" y="2390" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xwwWXdzjIdcxHAzQ7T1N-113" value="Photographer Booking systems" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="2480" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
