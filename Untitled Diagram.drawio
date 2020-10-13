@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T06:47:15.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="g7iEWaGPj2r-e9Wt66-w" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T06:49:42.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="KcdY49qgntFr7gZEvabj" version="13.7.9" type="github">
   <diagram id="rZBaU04stiPMk3SZJmmc" name="Page-1">
-    <mxGraphModel dx="1663" dy="2613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="2495" dy="3070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="680" y="390" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vi-9CoD4SaAg4djCjcxH-61" value="Upload Lesson" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="-90" width="100" height="60" as="geometry" />
+          <mxGeometry x="950" y="-50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vi-9CoD4SaAg4djCjcxH-62" value="Login" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="190" width="100" height="60" as="geometry" />
@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vi-9CoD4SaAg4djCjcxH-90" value="Update Trainer Information" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="980" width="100" height="60" as="geometry" />
+          <mxGeometry x="1040" y="10" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vi-9CoD4SaAg4djCjcxH-91" value="Update customer Information" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="-100" width="100" height="60" as="geometry" />
@@ -204,7 +204,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vi-9CoD4SaAg4djCjcxH-96" value="Upload schedule" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="-160" width="100" height="60" as="geometry" />
+          <mxGeometry x="910" y="-130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vi-9CoD4SaAg4djCjcxH-97" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vi-9CoD4SaAg4djCjcxH-56" target="Vi-9CoD4SaAg4djCjcxH-96" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -342,6 +342,16 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="380" y="520" as="sourcePoint" />
             <mxPoint x="454.6446609406721" y="568.7867965644032" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtE1z9EWpxu_BISNDb1I-6" value="update schedule" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gtE1z9EWpxu_BISNDb1I-8" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.006;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gtE1z9EWpxu_BISNDb1I-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1030" y="-170" as="sourcePoint" />
+            <mxPoint x="980.599999999984" y="-125.98000000000002" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
