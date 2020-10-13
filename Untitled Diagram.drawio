@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T06:49:42.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="KcdY49qgntFr7gZEvabj" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T06:53:32.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="VQWFBEfcEmWd9mZ7Gs5M" version="13.7.9" type="github">
   <diagram id="rZBaU04stiPMk3SZJmmc" name="Page-1">
-    <mxGraphModel dx="2495" dy="3070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="2613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="Vi-9CoD4SaAg4djCjcxH-64" value="Choose Service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="400" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vi-9CoD4SaAg4djCjcxH-65" value="Manage Service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Vi-9CoD4SaAg4djCjcxH-65" value="Manage review" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="220" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vi-9CoD4SaAg4djCjcxH-66" value="Manage Booking" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
