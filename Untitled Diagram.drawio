@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T05:35:26.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="VSzR3utnLzn5dLEnBdEG" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T05:37:31.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228" etag="qNss6wjCzR6DRvvU6SDV" version="13.7.9" type="github">
   <diagram id="rZBaU04stiPMk3SZJmmc" name="Page-1">
     <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="890" y="910" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SoXF86wuX2_m7fPJKhFs-51" value="Login" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="1190" width="100" height="60" as="geometry" />
+          <mxGeometry x="870" y="1190" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SoXF86wuX2_m7fPJKhFs-52" value="Choose PT" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="1520" width="100" height="60" as="geometry" />
@@ -279,6 +279,16 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="810" y="990" as="sourcePoint" />
             <mxPoint x="125.35533905932743" y="1048.7867965644032" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vi-9CoD4SaAg4djCjcxH-41" value="See service detail" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-9CoD4SaAg4djCjcxH-42" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vi-9CoD4SaAg4djCjcxH-41">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="920" y="1360" as="sourcePoint" />
+            <mxPoint x="920" y="1380" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
