@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T14:34:45.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.284" etag="zuX2HGQFnB9_GcGgw_wS" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T15:05:20.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.284" etag="YWexIeW1_XFHKfS3MRAw" version="13.8.1" type="github">
   <diagram id="rZBaU04stiPMk3SZJmmc" name="Page-1">
     <mxGraphModel dx="1174" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -128,17 +128,6 @@
           <mxGeometry x="0.0568" y="8" width="160" relative="1" as="geometry">
             <mxPoint x="420" y="350" as="sourcePoint" />
             <mxPoint x="729.9999999999939" y="440" as="targetPoint" />
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vi-9CoD4SaAg4djCjcxH-112" value="Upload excercise" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="160" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Vi-9CoD4SaAg4djCjcxH-113" value="" style="endArrow=none;endSize=12;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Vi-9CoD4SaAg4djCjcxH-51" target="Vi-9CoD4SaAg4djCjcxH-112" edge="1">
-          <mxGeometry x="0.1448" y="8" width="160" relative="1" as="geometry">
-            <mxPoint x="430" y="320" as="sourcePoint" />
-            <mxPoint x="580" y="670" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
