@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T04:44:34.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 OPR/72.0.3815.320" etag="d7PXTTdLazwQ-Woe7hPp" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T04:45:50.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 OPR/72.0.3815.320" etag="-Ebap7_bs36a8E9Uh6ji" version="13.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -18,6 +18,12 @@
         </mxCell>
         <mxCell id="HsX7UwhJUl5iErsf_c1I-10" value="Booking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HsX7UwhJUl5iErsf_c1I-11" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HsX7UwhJUl5iErsf_c1I-12" value="Trainer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
